@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "controle-de-sacas-493619",
+  "private_key_id": "85fa0e404f891c9879debce629b199900c938170",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6nVd2bwD7L8Sx\ntf4jxRzCaz76wdCWTAv+VO0XmABUEHqb1UX66cHwxiKCkqMYL/VQMuk1r/Gxms3z\nrRMI/C6MGmDVeUYBzbvgf6EcU1CoACulw+X+wQQXwK6OICIEMTbf9Vatas2wU1kU\n1RSxj+wK8xZHEKj/VRPHphVrha97RF4u+RZByxZhsCmKY4PS5s3gLgHapGbegrlm\nRoD1zCOSV1L+2AZj9xQhwQAaTNA1bCIMittdwVzbxsCwzHfN/fHVLdqqaKAj1PsV\nYxs8iFWJGvoZg3DYWecYK3ghzFQNJvTrMsYMbK13ilvhz0SdAyfrsgJ+ruL6Mslo\ng8FrB2LHAgMBAAECggEAR3ebd9FiHFB6cR6EIhnKflCJMYpJQk4EZ9YJaLg/I/Kd\nqhFe+A1Ox1FyBPR4fnpbZefhdTyZAM4K4q/dMts1TlWJ0SddHrK2KW9neYwUvwo1\nrQmditdLpHcXwnle3aElZVa1Z7uX41fALWC/SJMYMEdROE0Sk5p29UZPPLrZbgik\nD3LiI+nFJfqOqdX3wePxiNag0DTVKVGQdrUiYQMUAdCDrxlgJRvPXE0zDH4mruz2\n4XjEz1DU0nBhfHL/kMIkwep0Jz9+/oqOMfFD07Jd2M+enu2sr5e9zeO0O1yyzcsN\nUpeyvSgSUQ9Xw29LNzaX3rQc2JaQET1mR3JIp3H7ZQKBgQDxv/s9GLXjZetRsfhC\np7cUaZlTyitVLp9KTxlf1ikkzJhpdpbFlG6BId8t5CzFZ2P1NnyjM6JCGRa95Lv8\nubGfbSi8f/9qy3aOcmPoWNgotAP135wdOBY1xMoOR+WA1qM4PF+0coxs54Szuds4\n/9HdsK1sicR2aRWYOvLnq9pZOwKBgQDFnV2ZHjC5BESzkiLExfI1zRgMAE9RSAbJ\n6XhNFqAnhEXe/qNvH4K8MgizAhvzRedap4RymTDgVU18kb9Cb+aIX3hrwOr6Zmx2\nRTxJrmhRJvBLKlc+MYk3NQVMOFUNf/cE7TynYbe+cTZBc4nWmbYUmhxm3gIDwW5O\nULlT11+j5QKBgEpAPglg6pTCfAlmkSrf2mKBoJ9UrASIwlIPg2qlG5P65yEVVG+x\nDFPLNIIi4AFtpQzuxE9YD5EfpZWDiJ2x5zVhUK683ZVOksZjqf32M8YkrEa7fHaZ\nAHFZVPoX6QyuYAloubhxqmHUpjSRdBzIrgvaNRnuIpJ/6isMiAjSBsl7AoGASgtI\nwtKZFvoOc+pRtMEmnBoY5IZJMf9267jbJqdPov7g30kyG7UG21U0BT7JEkIjCciy\ny+2ybpwHyKEjtNUQ4BBForpKUUCHa1lN2Z3L4HxilQdsYRVWgKURMxn4ZHKKMAJk\nM6NdobHxzlxoTUyS+O01ryWIQ7f6iMWea1fLsjECgYAIoU9ZrbjQGDbiwXO9Svwx\nkIZt29pSkJK1uLYXOnk6IbOn1T8Mp/6JDhfFFkH/6SSJGDD4zjPPB5otXyXkN7x2\nOju0ZHU/d5rc5LrOAWCD6HPaSUM9RjYgxThbFLLtw3T/T33+JfdpO3SS2J1D6JQ4\nVJqgujPcrxAzmnXDH8ADBQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "credenciais-json@controle-de-sacas-493619.iam.gserviceaccount.com",
+  "client_id": "105635144252196154982",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/credenciais-json%40controle-de-sacas-493619.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
